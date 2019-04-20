@@ -1,7 +1,7 @@
 {
   "name": "UiPath-Level1",
   "description": "Level 1 - Foundation Training",
-  "main": "Main.xaml",
+  "main": "01 - HelloWorld.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.5.2]",
     "UiPath.Mail.Activities": "[1.3.0]",
